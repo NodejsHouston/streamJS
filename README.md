@@ -11,7 +11,7 @@
     | Tasks | Details |
     | ----- | ------- |
     | Animation | The animated graphic should be simple and non dynamic. Preferably some sort ascii art with a sweeping horizontal line |
-    | Backend Communication | Set up a [Socket.io](http://socket.io/get-started/) server and [stream](https://nodejs.org/api/stream.html) the file |
+    | Backend Communication | Set up a [Socket.io](http://socket.io/get-started/) server and [stream](https://nodejs.org/api/stream.html) the file . Set up [heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction) app to host site |
     | Client Communication | Use a [Socket.io](http://socket.io/get-started/) client to display the animation |
 
 
