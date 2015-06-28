@@ -1,0 +1,27 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+*:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+html {
+    font-weight: 100;
+    letter-spacing: 0.01em;
+}
+
+body {
+    margin: 0;
+}
+
+pre {
+    font-family: monospace;
+    white-space: pre;
+    word-spacing: normal;
+    word-break: pre;
+}
